@@ -100,7 +100,7 @@ input[type="text"] {
 .single-meal img {
   width: 300px;
   margin: 15px;
-  border: 4px #fff solid;
+  border: 2px #fff solid;
   border-radius: 2px;
 }
 
@@ -114,7 +114,7 @@ input[type="text"] {
 .single-meal p {
   margin: 0;
   letter-spacing: 0.5px;
-  line-height: 1.5;
+  line-height: 2;
 }
 
 .single-meal ul {
@@ -125,9 +125,9 @@ input[type="text"] {
 .single-meal ul li {
   border: 1px solid #ededed;
   border-radius: 5px;
-  background-color: #fff;
+  background-image: linear-gradient(to top, #d3c440 0%, #adba3c 100%);
   display: inline-block;
-  color: #2d2013;
+  color: #000;
   font-size: 12px;
   font-weight: bold;
   padding: 5px;
