@@ -1,6 +1,6 @@
 # Find Me Meal Application
 
-Search and generate random meals fr the [themealdb.com](https://www.themealdb.com) API
+Search and generate random meals fro the [themealdb.com](https://www.themealdb.com) API
 
 ## Project Specifications
 
