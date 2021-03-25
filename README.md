@@ -1,4 +1,4 @@
-# Find Me Me Application.
+# Find Me Mea Application.
 
 Search and generate random meals from the [themealdb.com](https://www.themealdb.com) API
 
