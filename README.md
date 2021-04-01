@@ -8,4 +8,4 @@ Search and generate random meals from the [themealdb.com](https://www.themealdb.
 - Connect to API and get meals
 - Display meals in DOM with image and hover effect
 - Click on meal and see the details
-- Click on generate button and fetch & display a r
+- Click on generate button and fetch & display a ra
