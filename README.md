@@ -1,4 +1,4 @@
-# Find Me Meal App
+# Find Me Meal Appl
 
 Search and generate random meals from the [themealdb.com](https://www.themealdb.com) API
 
