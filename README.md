@@ -4,7 +4,7 @@ Search and generate random meals from the [themealdb.com](https://www.themealdb.
 
 ## Project Specifications
 
-- Display UI with form to search and button to gener
+- Display UI with form to search and button to genera
 - Connect to API and get meals
 - Display meals in DOM with image and hover effect
 - Click on meal and see the details
