@@ -2,7 +2,7 @@
 
 Search and generate random meals from the [themealdb.com](https://www.themealdb.com) API
 
-## Project Specifications 00000
+## Project Specifications 0000
 
 - Display UI with form to search and button to generate
 - Connect to API and get meals
